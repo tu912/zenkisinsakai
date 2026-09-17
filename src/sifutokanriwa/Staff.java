@@ -19,3 +19,4 @@ public class Staff {
 		System.out.println("役割;" + roru);
 	}
 }
+//sutaffu一様終わり
