@@ -6,8 +6,8 @@ public class Staff {
 	String name;
 	String roru;
 
-	public Staff(int staffID, String name, String roru) {
-		this.stafID = staffID;
+	public Staff(int stafID, String name, String roru) {
+		this.stafID = stafID;
 		this.name = name;
 		this.roru = roru;
 
